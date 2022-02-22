@@ -1,0 +1,37 @@
+.navbar-main{
+    /* background-color: red; */
+    background-color: purple;
+}
+
+.navbar{
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* padding: 0 10px; */
+    padding: 10px 10px;
+}
+
+.navbar-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    /* margin-left: 30px;    */
+    cursor: pointer;
+}
+
+.navbar-logo-img{
+    width: 60px;
+}
+
+.navbar-logo-text{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.navbar-title{
+    color: white    ;
+}
+
